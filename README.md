@@ -1,4 +1,4 @@
-# League-Assesment
+# CSV File Handling App
 
 This is a simple web service written in Golang for processing CSV files. It provides various operations such as echoing the content, flattening rows, inverting columns, multiplying values, and summing values.
 
@@ -35,7 +35,7 @@ League/
 
 - Clone the repository:
 ```
-git clone https://github.com/harshsngh1/League-Assesment
+git clone https://github.com/harshsngh1/CSV-File-Handling-App
 ```
 - Navigate to project directory
 ```
